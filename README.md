@@ -2,7 +2,7 @@
 - 👀 I’m interested in IOS development
 - 🌱 I’m currently learning Xcode
 - 💞️ I’m looking to collaborate on IOS development
-- 📫 How to reach me durangod2020@gmail.com
+- 📫 How to reach me durangod20@gmail.com
 
 <!---
 Durangod20/Durangod20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
